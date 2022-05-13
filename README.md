@@ -34,7 +34,7 @@ In the customer panel, customer can perform the following tasks :
 7.Can also able to view the quotes from the third parties (So,he can review the quotes of the company and third parties and can decide which plan to buy)
 and etc.
 
-**Customer Panel**
+**Admin Panel**
 
 In the admin panel, admin can perform the following tasks :
 1.Login and access dashboard 
@@ -45,6 +45,11 @@ In the admin panel, admin can perform the following tasks :
 5.Update the status of the query.
 6.View the quotes provided by the company according to the query submitted.
 etc.
+
+Admin Credentials :
+
+Username : SuperAdmin1
+Password : superadmin@123
 
 **PROGRAMMING LANGUAGES**
 
