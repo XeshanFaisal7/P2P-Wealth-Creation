@@ -15,7 +15,7 @@ _**Helping our clients realize their aspirations**_
 
 Your personal financial advisor will get to know you and recommend investing alternatives that are right for you based on your own objectives.
 
-**PROJECT DESCRIPTION **
+**PROJECT DESCRIPTION**
 
 This project is about the company named **_"P2P Wealth Creation"_** which is providing the insurance services to the customers.
 This project consist of two panels :
